@@ -50,7 +50,7 @@
 
 <p align="center"> 
  VISITOR GITHUB<br>
-  <img src="https://profile-counter.glitch.me/hansalrl/count.svg" />
+  <img src="https://profile-counter.glitch.me/hansalrl2/count.svg" />
 </p>
 
 
