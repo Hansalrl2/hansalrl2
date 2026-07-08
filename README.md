@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 Tentang Saya
 
-Web Developer asal Semarang, Jawa Tengah. Suka eksplorasi teknologi baru dan bikin aplikasi web dari front-end sampai back-end.
+Developer bot WhatsApp asal Semarang, Jawa Tengah. Udah bikin dan maintain bot WhatsApp sejak 2016 sampai sekarang, sambil terus eksplorasi teknologi web lainnya.
 
 - 🔭 Lagi kerjain: `[isi project yang lagi dikerjakan]`
 - 🌱 Lagi belajar: `[isi skill/teknologi yang lagi dipelajari]`
-- 💬 Tanya aku soal: `[isi topik yang kamu kuasai]`
+- 💬 Tanya aku soal: Bot WhatsApp, Node.js, JavaScript
 - 📫 Cara hubungi: hansalrl@gmail.com
 
 ---
@@ -31,6 +31,30 @@ Web Developer asal Semarang, Jawa Tengah. Suka eksplorasi teknologi baru dan bik
 </p>
 
 > Bahasa di atas otomatis "kedeteksi" lewat statistik repo — kalau kamu nambah proyek baru dengan bahasa lain, chart di bawah bakal ikut update sendiri.
+
+---
+
+## 🐍 Animasi Aktivitas Semua Repository
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hansalrl2/Hansalrl2/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hansalrl2/Hansalrl2/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Hansalrl2/Hansalrl2/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+> 🎮 Ular ini "memakan" kotak-kotak kontribusi dari **semua commit di semua repository kamu** — bukan gambar statis, ini auto-generate ulang tiap hari lewat GitHub Actions. Setup: taruh file `snake.yml` (sudah kusiapkan) di `.github/workflows/` repo `Hansalrl2/Hansalrl2`, lalu jalankan sekali di tab Actions.
+
+---
+
+## 🏆 Achievement Asli GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hansalrl2/Hansalrl2/output/metrics.plugin.achievements.svg" alt="GitHub Achievements" />
+</p>
+
+> Ini adalah badge **achievement asli** dari tab Achievements profil kamu (Pull Shark, Quickdraw, dll — kalau sudah ada). GitHub belum punya API publik untuk ini, jadi butuh GitHub Action `lowlighter/metrics` (file `achievements.yml` sudah kusiapkan) + 1 Personal Access Token dengan scope `read:user`. Kalau belum punya achievement apapun, badge ini akan kosong sampai kamu dapat salah satunya secara natural dari aktivitas GitHub.
 
 ---
 
@@ -61,23 +85,13 @@ Web Developer asal Semarang, Jawa Tengah. Suka eksplorasi teknologi baru dan bik
 
 | Tahun | Milestone |
 |---|---|
-| `[2014]` | `[contoh: Mulai belajar HTML, CSS, dan dasar pemrograman]` |
-| `[2015]` | `[contoh: Belajar JavaScript dan mulai bikin project sederhana]` |
-| `[2015]` | `[contoh: Belajar Node.js, Express, dan database MySQL/MongoDB]` |
-| `[2016]` | `[contoh: Mulai belajar React dan bikin project full-stack pertama]` |
-| `[2017]` | `[contoh: Aktif ngerjain freelance / project pribadi]` |
-
----
-
-## 🎓 Sertifikat & Pencapaian
-
-> Isi dengan sertifikat asli yang kamu punya — sertakan link supaya bisa diverifikasi orang lain.
-
-- 🏅 `[Nama sertifikat]` — `[Platform, mis. Dicoding/Coursera/Udemy]` — `[Tahun]` — [Link verifikasi]()
-- 🏅 `[Nama sertifikat]` — `[Platform]` — `[Tahun]` — [Link verifikasi]()
-- 🏅 `[Nama sertifikat]` — `[Platform]` — `[Tahun]` — [Link verifikasi]()
-
-*(Belum punya sertifikat? Nggak masalah — hapus aja section ini atau isi belakangan pas sudah ada.)*
+| 2014 | Mulai belajar HTML, CSS, dan dasar pemrograman |
+| 2015 | Belajar JavaScript dan mulai bikin project sederhana |
+| 2015 | Belajar Node.js, Express, dan database MySQL/MongoDB |
+| 2016 | Mulai membangun bot WhatsApp — titik awal perjalanan coding serius |
+| 2016 | Mulai belajar React dan bikin project full-stack pertama |
+| 2017 | Aktif ngerjain freelance / project pribadi |
+| 2016–Sekarang | Terus mengembangkan & memaintain bot WhatsApp secara berkelanjutan |
 
 ---
 
