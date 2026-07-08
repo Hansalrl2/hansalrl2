@@ -1,48 +1,74 @@
-<!-- HEADER SIMPLE -->
+<!-- Header -->
+<h1 align="center">Hi there, I'm Yohanes 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=180&text=HANSALRL2&fontSize=50&fontColor=FFD700&animation=blur" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Web+Developer+from+Indonesia;24+Tahun+%7C+Semarang%2C+Jawa+Tengah;Belajar+Hal+Baru+Tiap+Hari" alt="Typing SVG" />
 </p>
 
-<!-- TYPING 1 BARIS AJA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=FFD700&center=true&lines=Yohanes+Sabattian+Adeleony+%7C+Web+%26+Bot+Developer" />
+  <a href="https://hansalrl.zone.id/"><img src="https://img.shields.io/badge/-Portfolio-00D9FF?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+  <a href="mailto:hansalrl@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/628974152000"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<!-- STATS CLEAN -->
+---
+
+### 🧑‍💻 Tentang Saya
+Web Developer asal Semarang, Jawa Tengah. Suka eksplorasi teknologi baru dan bikin aplikasi web dari front-end sampai back-end.
+
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hansalrl2&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hansalrl2&theme=dark&hide_border=true&background=0D1117&stroke=FFD700" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,html,css,bootstrap,py,django,mysql,mongodb,git,github&theme=dark" />
 </p>
 
-<!-- SKILL AUTO DETECT -->
-<h3 align="center">Tech Stack</h3>
+> Bahasa di atas otomatis "kedeteksi" lewat statistik repo — kalau kamu nambah proyek baru dengan bahasa lain, chart di bawah bakal ikut update sendiri.
+
+---
+
+### 📊 GitHub Stats & Aktivitas
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,python,django,mongodb,mysql,git,docker&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hansalrl2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansalrl2&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hansalrl2&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansalrl2&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- PROJECT -->
-<h3 align="center">Featured Projects</h3>
+> 🔥 **Streak di atas nunjukin berapa lama kamu aktif ngoding tanpa putus** — total kontribusi, current streak, dan longest streak, semuanya auto-update tiap ada commit baru.
+
 <p align="center">
-  <a href="https://github.com/Hansalrl2/Alexa-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hansalrl2&repo=Alexa-Bot&theme=dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hansalrl2&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+> 📈 Grafik ini adalah **aktivitas commit harian** di semua repository kamu selama setahun terakhir.
+
+---
+
+### 🏆 Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hansalrl2&theme=tokyonight&margin-w=15&no-bg=true&row=1" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Hansalrl2/prabayarh2h-serpul-test">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hansalrl2&repo=prabayarh2h-serpul-test&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Hansalrl2/hansxbtchx/tree/pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hansalrl2&repo=hansxbtchx&theme=dark&hide_border=true" />
+  <a href="https://github.com/Hansalrl2/portofolio-base">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hansalrl2&repo=portofolio-base&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-<!-- CONTACT SIMPLE -->
+---
+
 <p align="center">
-  <a href="https://wa.me/628974152000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:hansalrl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://profile-counter.glitch.me/Hansalrl2/count.svg" alt="Visitor Count" />
 </p>
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=100&section=footer" />
-</p>
+<p align="center"><i>⭐️ Terima kasih sudah mampir!</i></p>
