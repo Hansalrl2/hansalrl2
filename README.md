@@ -1,58 +1,56 @@
-bikin readme.md di github Hansalrl2 biar lebih keren dan tampilkan semua activity ku direpository dan bikin deteksi otomatis skill aku apa aja dan berapa lama aku aktif direpositori bisa?
+<h1 align="center">Yohanes Sabattian Adeleony</h1>
+<h3 align="center">System Architect | Web Developer | Logistics Tech Enthusiast</h3>
 
-<!-- Header -->
-<h1 align="center">Welcome to My GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br></h1>
-
-
-<!-- Typing SVG -->
+<!-- Animasi Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&font=Satisfy&color=4c566a&center=true&vCenter=true&lines=Yohanes+Sabattian+Adeleony.;24+Tahun;Kota+Semarang+Jawa+Tengah" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00ff9d&center=true&vCenter=true&lines=Architecting+the+Web.;Securing+Digital+Infrastructure.;Always+pushing+to+production." alt="Typing SVG">
 </p>
 
-<!-- About Me -->
+<!-- Animasi Divider -->
 <p align="center">
-  Hi there! I'm Yohanes Sabattian Adeleony, a Web Developer from Indonesia.
-  <br>
-  I am passionate about learning new technologies and developing web applications.
+  <img src="https://user-images.githubusercontent.com/74038190/212257421-c30c800f-431d-44a6-98a4-041443659223.gif" width="600" />
 </p>
 
-<!-- Technologies -->
+<!-- Music Player & Bio -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express" alt="Express.js">
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" alt="Django">
+  <b>Currently listening to:</b><br>
+  <iframe src="https://open.spotify.com/embed/track/6UoJd4uYVw01jS62cE00oF?theme=0" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</p>
+
+---
+
+### 💻 Tech Stack & Expertise
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,python,django,git,linux,cloudflare,docker,vscode,postman" />
+</p>
+
+---
+
+### 📊 Performance & Impact
+<div align="center">
+  <a href="https://github.com/hansalrl2">
+    <img src="https://github-readme-stats.vercel.app/api?username=hansalrl2&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="45%" />
+  </a>
+  <a href="https://github.com/hansalrl2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hansalrl2&theme=dracula&layout=compact&hide_border=true&langs_count=6" width="45%" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/hansalrl2">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hansalrl2&theme=dracula&hide_border=true&stroke=00ff9d&background=282a36" />
+  </a>
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hansalrl2&theme=radical&margin-w=20&no-bg=true" alt="Trophy" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hansalrl2"><img src="https://github-readme-stats.vercel.app/api?username=hansalrl2&theme=tokyonight&show_icons=true" /></a>
+  <sub>Update: July 2026 | Built with focus and caffeine.</sub>
 </p>
-
-<p align="center">
-  <a href="https://github.com/hansalrl2"><img src="https://github-readme-streak-stats.herokuapp.com?user=Fxc7&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/hansalrl2"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hansalrl2&theme=tokyonight&layout=compact" /></a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/hansalrl2"><img src="https://github-profile-trophy.vercel.app/?username=hansalrl2&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
-
-
-<p align="center"> 
- VISITOR GITHUB<br>
-  <img src="https://profile-counter.glitch.me/hansalrl/count.svg" />
-</p>
-</p>
-
