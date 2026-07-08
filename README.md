@@ -13,10 +13,19 @@
 
 ---
 
-### 🧑‍💻 Tentang Saya
+## 🧑‍💻 Tentang Saya
+
 Web Developer asal Semarang, Jawa Tengah. Suka eksplorasi teknologi baru dan bikin aplikasi web dari front-end sampai back-end.
 
-### 🛠️ Tech Stack
+- 🔭 Lagi kerjain: `[isi project yang lagi dikerjakan]`
+- 🌱 Lagi belajar: `[isi skill/teknologi yang lagi dipelajari]`
+- 💬 Tanya aku soal: `[isi topik yang kamu kuasai]`
+- 📫 Cara hubungi: hansalrl@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,html,css,bootstrap,py,django,mysql,mongodb,git,github&theme=dark" />
 </p>
@@ -25,7 +34,7 @@ Web Developer asal Semarang, Jawa Tengah. Suka eksplorasi teknologi baru dan bik
 
 ---
 
-### 📊 GitHub Stats & Aktivitas
+## 📊 GitHub Stats & Aktivitas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hansalrl2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -46,7 +55,33 @@ Web Developer asal Semarang, Jawa Tengah. Suka eksplorasi teknologi baru dan bik
 
 ---
 
-### 🏆 Trophy
+## 🗓️ Timeline Perjalanan Belajar
+
+> Ganti tiap baris di bawah dengan riwayat asli kamu — format tahun lalu deskripsi singkat.
+
+| Tahun | Milestone |
+|---|---|
+| `[isi tahun]` | `[contoh: Mulai belajar HTML, CSS, dan dasar pemrograman]` |
+| `[isi tahun]` | `[contoh: Belajar JavaScript dan mulai bikin project sederhana]` |
+| `[isi tahun]` | `[contoh: Belajar Node.js, Express, dan database MySQL/MongoDB]` |
+| `[isi tahun]` | `[contoh: Mulai belajar React dan bikin project full-stack pertama]` |
+| `[isi tahun]` | `[contoh: Aktif ngerjain freelance / project pribadi]` |
+
+---
+
+## 🎓 Sertifikat & Pencapaian
+
+> Isi dengan sertifikat asli yang kamu punya — sertakan link supaya bisa diverifikasi orang lain.
+
+- 🏅 `[Nama sertifikat]` — `[Platform, mis. Dicoding/Coursera/Udemy]` — `[Tahun]` — [Link verifikasi]()
+- 🏅 `[Nama sertifikat]` — `[Platform]` — `[Tahun]` — [Link verifikasi]()
+- 🏅 `[Nama sertifikat]` — `[Platform]` — `[Tahun]` — [Link verifikasi]()
+
+*(Belum punya sertifikat? Nggak masalah — hapus aja section ini atau isi belakangan pas sudah ada.)*
+
+---
+
+## 🏆 Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hansalrl2&theme=tokyonight&margin-w=15&no-bg=true&row=1" />
@@ -54,7 +89,7 @@ Web Developer asal Semarang, Jawa Tengah. Suka eksplorasi teknologi baru dan bik
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Hansalrl2/prabayarh2h-serpul-test">
@@ -66,6 +101,14 @@ Web Developer asal Semarang, Jawa Tengah. Suka eksplorasi teknologi baru dan bik
 </p>
 
 ---
+
+## 📬 Hubungi Saya
+
+<p align="center">
+  <a href="mailto:hansalrl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/628974152000"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://hansalrl.zone.id/"><img src="https://img.shields.io/badge/-Website-00D9FF?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+</p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Hansalrl2/count.svg" alt="Visitor Count" />
