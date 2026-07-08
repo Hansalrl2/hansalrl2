@@ -61,11 +61,11 @@ Web Developer asal Semarang, Jawa Tengah. Suka eksplorasi teknologi baru dan bik
 
 | Tahun | Milestone |
 |---|---|
-| `[isi tahun]` | `[contoh: Mulai belajar HTML, CSS, dan dasar pemrograman]` |
-| `[isi tahun]` | `[contoh: Belajar JavaScript dan mulai bikin project sederhana]` |
-| `[isi tahun]` | `[contoh: Belajar Node.js, Express, dan database MySQL/MongoDB]` |
-| `[isi tahun]` | `[contoh: Mulai belajar React dan bikin project full-stack pertama]` |
-| `[isi tahun]` | `[contoh: Aktif ngerjain freelance / project pribadi]` |
+| `[2014]` | `[contoh: Mulai belajar HTML, CSS, dan dasar pemrograman]` |
+| `[2015]` | `[contoh: Belajar JavaScript dan mulai bikin project sederhana]` |
+| `[2015]` | `[contoh: Belajar Node.js, Express, dan database MySQL/MongoDB]` |
+| `[2016]` | `[contoh: Mulai belajar React dan bikin project full-stack pertama]` |
+| `[2017]` | `[contoh: Aktif ngerjain freelance / project pribadi]` |
 
 ---
 
